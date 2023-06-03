@@ -11,4 +11,10 @@ We used various and implemented various Supervised Learning Algorithms:
 - Lasso Regression
 - Ridge Regression
 
-We used the above algorithms to compare the results of the inbuilt and one implemented by us. The overall aim was to understand the appropriate usage of supervised algorithms in these type of situations and key takeaways of how linear models such as linear regression fair up against non-linear models such as Decision tree in a highly non-linear data. Apart from this the project helped me understand how these supervised algorithms work and the mathematic intuition behind it.
+We used the above algorithms to compare the results of the inbuilt and one implemented by us. The overall aim was to understand the appropriate usage of supervised algorithms in these type of situations and key takeaways of how linear models such as linear regression fair up against non-linear models such as Decision tree in a highly non-linear data. Overall this project enhanced my understanding on supervised algorithms and the mathematical intuition behind it.
+
+Apart from the ML takeaways, this project helped me understand:
+- Importance of Experimental Data Analysis & Data Visualization
+- Choosing appropriate feature engineering models to accelerate our model's accuracy.
+
+That's all enjoy!
