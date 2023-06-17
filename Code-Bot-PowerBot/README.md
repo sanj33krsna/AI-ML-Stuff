@@ -41,7 +41,7 @@ Launch the chat service locally :
 https://colab.research.google.com/drive/1JTov7LWEerqNsVybVQyeGLVHUHmAlYBA?usp=sharing
 
 ### Example Results
-<p align = "center"> <img src="https://github.com/sanj33krsna/Code-Bot-PowerBot/blob/main/Demo/codebot.gif" width="600"> </p>
+<p align = "center"> <img src="https://github.com/sanj33krsna/AI-ML-Stuff/tree/main/Code-Bot-PowerBot/Demo/codebot.gif" width="600"> </p>
 
 ### Future Updates!
 
