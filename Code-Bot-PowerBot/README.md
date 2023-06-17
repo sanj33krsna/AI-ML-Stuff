@@ -35,13 +35,14 @@ Install the required dependencies in the virtual environment :
 Launch the chat service locally :
 `streamlit run chatbot.py`
 
+Link to streamlit App: <strong> <a href = "https://sanj33krsna-ai-ml-stuff-code-bot-powerbotchatbot-x272fr.streamlit.app/">PowerBot</a></strong>
 
 ### Colab link:
 
 https://colab.research.google.com/drive/1JTov7LWEerqNsVybVQyeGLVHUHmAlYBA?usp=sharing
 
 ### Example Results
-<p align = "center"> <img src="https://github.com/sanj33krsna/AI-ML-Stuff/tree/main/Code-Bot-PowerBot/Demo/codebot.gif" width="600"> </p>
+<p> <img src="https://github.com/sanj33krsna/AI-ML-Stuff/blob/main/Code-Bot-PowerBot/Demo/codebot.gif" width="600"> </p>
 
 ### Future Updates!
 
