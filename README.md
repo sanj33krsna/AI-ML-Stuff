@@ -12,7 +12,7 @@ Using **Sci-kit Learn** and **Pandas** to do analysis on **sales data**. Impleme
 <br>
 <strong><a href=https://github.com/sanj33krsna/AI-ML-Stuff/tree/main/Plant_Leaf_Disease> Plant Leaf Disease Classification: </a></strong>
 <br>
-Using **ResNet** type of a CNN, and plant disease data consisting of different leaves, to classify the test data. To understand the working of ResNet using **TensorFlow**. The final result being classification done at 99.2% of the given test data.
+Using **ResNet** type of a CNN, and plant disease data consisting of different leaves, to classify the test data. To understand the working of ResNet using **PyTorch**. The final result being classification done at 99.2% of the given test data.
 
 ## Setup Linux for ML:
 
