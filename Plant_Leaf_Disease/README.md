@@ -1,6 +1,6 @@
 # Plant Leaf Disease Classification - Using ResNet
 
-Tools Used: TensorFlow, Jupyter 
+Tools Used: PyTorch, Jupyter 
 
 ## Why ResNet:
 
